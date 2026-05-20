@@ -28,8 +28,8 @@ export const Hero = () => {
 
       // Trigger the download
       const link = document.createElement("a");
-      link.href = "/CV_SumanSaurav_3Yrs.pdf";
-      link.download = "CV_SumanSaurav_3Yrs.pdf";
+      link.href = "/Resume_Suman_Saurav.pdf";
+      link.download = "Resume_Suman_Saurav.pdf";
       link.click();
 
       // alert("Resume downloading... Notification sent ✅");
